@@ -4,8 +4,6 @@ site_author: David Finster
 copyright: '&copy; <a href="https://www.dfinr.com">David Finster</a>'
 nav:
     - 'Introduction': 'index.md'
-    - 'About the Author': 'about.md'
-    - 'Example': 'https://example.com/'
 docs_dir: docs
 remote_branch: site
 use_directory_urls: true
