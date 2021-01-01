@@ -1,4 +1,6 @@
 # MKDocs Source
 
-<https://dfinr.com>
-<https://dfinr.github.io>
+MKDocs source for:
+
+* <https://dfinr.com>
+* <https://dfinr.github.io>
