@@ -1,7 +1,7 @@
 site_name: David Finster
 site_description: Project Information
 site_author: David Finster
-copyright: Copyright &copy; <a href="https://www.dfinr.com">David Finster</a>
+copyright: '&copy; <a href="https://www.dfinr.com">David Finster</a>'
 nav:
     - 'Introduction': 'index.md'
     - 'About the Author': 'about.md'
