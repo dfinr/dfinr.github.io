@@ -1,9 +1,6 @@
 # dfinr.com
 
-This is the Markdown source for:
-
-* <https://dfinr.com>
-* <https://dfinr.github.io>
+This is the Markdown source for <https://dfinr.com> aka <https://dfinr.github.io>.
 
 ---
 
