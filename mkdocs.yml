@@ -25,7 +25,7 @@ theme:
     - navigation.expand
     - toc:
       permalink: true
-      toc_depth: 3    
+      toc_depth: 3
     - toc.integrate
     - search.suggest
     - search.highlight
