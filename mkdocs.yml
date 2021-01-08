@@ -32,9 +32,11 @@ theme:
     - header.autohide
 extra:
   social:
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/dfinr
     - icon: fontawesome/brands/github
       link: https://github.com/dfinr
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/13642710/dfinr?tab=profile
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/dfinr
 extra_css:
   - stylesheets/extra.css
