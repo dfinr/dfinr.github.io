@@ -4,6 +4,8 @@ site_author: David Finster
 copyright: '&copy; <a href="https://www.dfinr.com">David Finster</a> - <a href="https://github.com/dfinr/dfinr.github.io/blob/mkdocs/LICENSE.md">CC BY-NC-ND 4.0</a>'
 nav:
     - 'About': 'index.md'
+    - 'Guitar': 
+      - 'Shower Mat Pedalboard': 'guitar/pedalboard.md'
 docs_dir: docs
 remote_branch: site
 use_directory_urls: true
