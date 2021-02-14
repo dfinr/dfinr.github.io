@@ -1,5 +1,0 @@
-﻿{
-  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
-  "Domain": "dfinr.com",
-  "Id": "c787429d-35ea-4d66-841a-af19a320443f"
-}
