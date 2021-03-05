@@ -6,7 +6,7 @@
 
 I'm a coffee geek, expert sailor, and not a great guitar player. I'm also the Technical Editor and Developer Advocate at [Vultr.com](https://www.vultr.com).
 
-If you have a question about Vultr's infrastructure or the [Trusted Author Program](https://www.vultr.com/docs/trusted-author-program), contact me on Twitter [@dfinr](https://twitter.com/dfinr), or on:
+If you have a question about Vultr's infrastructure or the [Trusted Author Program](https://www.vultr.com/docs/trusted-author-program), contact me on Twitter [@dfinr](https://twitter.com/dfinr), or:
 
 * [GitHub](https://github.com/dfinr)
 * [Reddit](https://www.reddit.com/user/dfinr)
