@@ -6,6 +6,8 @@ nav:
     - 'About': 'index.md'
     - 'Guitar': 
       - 'Shower Mat Pedalboard': 'guitar/pedalboard.md'
+    - 'Blog': 
+      - 'Backup': 'blog/Backup.md'
 docs_dir: docs
 remote_branch: site
 use_directory_urls: true
